@@ -1,6 +1,8 @@
 # To-do list
 
 > This project is as simplified todo list crud.
+
+
 ## Built With
 
 - HTML
@@ -9,7 +11,8 @@
 - Webpack
 
 ## Live version
-[See live version](https://fasaldana.github.io/todo_list/)
+[Click here for a live version](https://fasaldana.github.io/todo_list/)
+
 
 ## Getting Started
 
